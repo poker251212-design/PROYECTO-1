@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pruebasgit;
+
 
 /**
  *
@@ -18,6 +18,7 @@ public class PruebasGit {
         System.out.println("Primer Commit: Proyecto PruebasGit de Ismael - UPN");
         System.out.println("Mensaje de prueba para cambio en ramas");
         System.out.println("Primer pull request de Jeyson");
+        System.out.println("Segundo pull request de Jeyson Torres practicando");
     }
     
 }
